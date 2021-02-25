@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I am Utkarsh 😃
 - 🔭 I’m currently working on Django
 - 🌱 I’m currently learning React js
 - 💬 Ask me about Django,Flask & Node.js
 - 📫 How to reach me: 
 
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-khanna-43824117b/)
+    [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-khanna-43824117b/)
 
 
 <!--
