@@ -1,4 +1,4 @@
-### Hi there 👋 I am Utkarsh 😃
+### Hi there 👋 I am Utkarsh 💖
 - 🔭 I’m currently working on Django
 - 🌱 I’m currently learning React js
 - 💬 Ask me about Django,Flask & Node.js
