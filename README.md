@@ -4,8 +4,7 @@
 - 💬 Ask me about Django,Flask & Node.js
 - 📫 How to reach me: 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-khanna-43824117b/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!--
 **UtkarshK10/UtkarshK10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
