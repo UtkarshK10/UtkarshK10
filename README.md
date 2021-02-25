@@ -6,6 +6,13 @@
 
 
     [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-khanna-43824117b/)
+    
+    
+
+[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshK10&show_icons=true&theme=radical)](https://github.com/UtkarshK10/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshK10&show_icons=true&theme=radical)](https://github.com/UtkarshK10/github-readme-stats)
 
 
 <!--
