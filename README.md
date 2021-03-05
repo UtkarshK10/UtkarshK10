@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Utkarsh 😎
-- 🔭 I’m currently working on Data Structures
-- 🌱 I’m currently learning Machine Learning
-- 💬 Ask me about Django,Flask,Node.js & React.js
+- 🔭 I’m currently working on Full Stack Development
+- 🌱 I’m currently learning Data Structures
+- 💬 Ask me about Anything
 - 📫 How to reach me: 
 
 
