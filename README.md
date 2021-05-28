@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning Data Structures
 - 💬 Ask me about Anything
-- 📫 How to reach me: 
+- 📫 How to reach me: ukhanna1998@gmail.com
 
 
     [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-khanna-43824117b/)
