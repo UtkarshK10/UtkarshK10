@@ -9,7 +9,7 @@
 - 🛠 I’m currently working as Software Engineer @HSBC Technology
 - :wrench: I love solving real life problems✌🏻 .
 - 👾 Most of my projects are available on [Github](https://github.com/UtkarshK10).
-- 👅 I prefer Java over anything &nbsp; &nbsp;xD
+- 👅 I prefer Java over coffee xD
 - 📫 How to reach me: utkarshkhanna2811@gmail.com
 
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
