@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Utkarsh 😎
-- 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning Data Structures
+- 🔭 I’m currently working as Software Engineer @HSBC Technology
+- 🌱 I’m currently learning Full Stack Development
 - 💬 Ask me about Anything
 - 📫 How to reach me: utkarshkhanna2811@gmail.com
 
