@@ -1,8 +1,9 @@
 ### Hi there 👋 I am Utkarsh 😎
+<!--
 - 🔭 I’m currently working as Software Engineer @HSBC Technology
 - 🌱 I’m currently learning Full Stack Development
 - 💬 Ask me about Anything
-- 📫 How to reach me: utkarshkhanna2811@gmail.com
+- 📫 How to reach me: utkarshkhanna2811@gmail.com -->
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working as Software Engineer @HSBC Technology
