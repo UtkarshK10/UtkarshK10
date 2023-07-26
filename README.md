@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning Full Stack Development
 - 💬 Ask me about Anything
 - 📫 How to reach me: utkarshkhanna2811@gmail.com -->
+<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
+
+<img align="right" height="250" width="375" alt="" src="https://github.com/ranjan-panda/Bio/blob/master/coding2.gif" />
+
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working as Software Engineer @HSBC Technology
