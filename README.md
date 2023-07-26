@@ -8,7 +8,7 @@
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/ranjan-panda/Bio/blob/master/coding2.gif" />
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuffs
 
 - 🛠 I’m currently working as Software Engineer @HSBC Technology
 - :wrench: I love solving real life problems✌🏻 .
@@ -28,7 +28,7 @@
 
 
 
-### My Tech Stack:
+### My Tech Stack
 <img src="https://github.com/ranjan-panda/Bio/blob/master/restapi.jpg" height="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/java.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
