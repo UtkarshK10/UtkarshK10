@@ -22,7 +22,26 @@
 ### Contact Me <br>
 
     [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-khanna-43824117b/) -->
-    
+
+   
+
+
+<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
+
+### My Tech Stack:
+<img src="https://github.com/ranjan-panda/Bio/blob/master/restapi.jpg" height="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/java.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/heroku.png" width="30px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/html.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/javascript.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/flask.png" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/nodejsnew.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/github.png" width="75px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/ranjan-panda/Bio/blob/master/mysql.jpg" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+
+<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
+
     
 
 [![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshK10&show_icons=true&theme=radical)](https://github.com/UtkarshK10/github-readme-stats)
