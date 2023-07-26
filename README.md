@@ -26,7 +26,7 @@
    
 
 
-<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
+
 
 ### My Tech Stack:
 <img src="https://github.com/ranjan-panda/Bio/blob/master/restapi.jpg" height="50px"></h2>&nbsp; &nbsp; &nbsp;
