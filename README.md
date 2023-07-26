@@ -3,7 +3,17 @@
 - 🌱 I’m currently learning Full Stack Development
 - 💬 Ask me about Anything
 - 📫 How to reach me: utkarshkhanna2811@gmail.com
+### Talking about Personal Stuffs:
 
+- 🛠 I’m currently working as Software Engineer @HSBC Technology
+- :wrench: I love solving real life problems✌🏻 .
+- 👾 Most of my projects are available on [Github](https://github.com/UtkarshK10).
+- 👅 I prefer Java over anything &nbsp; &nbsp;:P :D
+- 📫 How to reach me: utkarshkhanna2811@gmail.com
+
+<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
+
+### Contact Me <br>
 
     [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-khanna-43824117b/)
     
