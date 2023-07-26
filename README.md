@@ -41,11 +41,10 @@
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
     
-<!--
 [![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshK10&show_icons=true&theme=radical)](https://github.com/UtkarshK10/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshK10&show_icons=true&theme=radical)](https://github.com/UtkarshK10/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshK10&show_icons=true&theme=radical)](https://github.com/UtkarshK10/github-readme-stats) 
 
 <p align="center">
 <a href="https://github.com/UtkarshK10">
