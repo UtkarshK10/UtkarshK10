@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Full Stack Development
 - 💬 Ask me about Anything
 - 📫 How to reach me: utkarshkhanna2811@gmail.com -->
-<!--
+
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/ranjan-panda/Bio/blob/master/coding2.gif" /> -->
+<img align="right" height="250" width="375" alt="" src="https://github.com/ranjan-panda/Bio/blob/master/coding2.gif" /> 
 
 ### Talking about Personal Stuffs
 
@@ -26,7 +26,7 @@
 
    
 
-<!--
+
 
 
 ### My Tech Stack
@@ -39,7 +39,7 @@
 <img src="https://github.com/ranjan-panda/Bio/blob/master/github.png" width="75px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/mysql.jpg" width="100px"></h2>&nbsp; &nbsp; &nbsp;
 
-<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2> -->
+<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2> 
 
 <!--
 [![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshK10&show_icons=true&theme=radical)](https://github.com/UtkarshK10/github-readme-stats)
