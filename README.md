@@ -14,7 +14,7 @@
 
 ### Talking about Personal Stuffs
 
-- 🛠 I’m currently working as Software Engineer @HSBC Technology
+- 🛠 I’m currently working as Software Engineer 3 @ Walmart Global Tech
 - :wrench: I love solving real life problems✌🏻
 - 👾 Most of my projects are available on [Github](https://github.com/UtkarshK10).
 - 👅 I prefer Java over coffee xD!!
